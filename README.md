@@ -1,3 +1,6 @@
+# Fixes for YOLOR offcial repo
+The branch 'paper' has some issues which have been fixed in this repo. Navigate to the paper branch to implement yolor. 
+
 # YOLOR
 implementation of paper - [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/abs/2105.04206)
 
